@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pay Now</title>
+  <script>
+    function pay() {
+      window.location.href = "upi://pay?pa=boism-7974477211@boi&pn=SriHariOmBabaGowrakshan&cu=INR";
+    }
+  </script>
+</head>
+<body style="text-align:center; font-family:sans-serif; padding-top:50px;">
+  <h2>Gaushala Seva 🙏</h2>
+  <p>Click below to make payment</p>
+  <button onclick="pay()" style="padding:15px 30px; font-size:18px;">
+    Pay Now
+  </button>
+</body>
+</html>
