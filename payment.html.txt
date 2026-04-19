@@ -4,7 +4,7 @@
   <title>Pay Now</title>
   <script>
     function pay() {
-      window.location.href = "upi://pay?pa=boism-7974477211@boi&pn=SriHariOmBabaGowrakshan&cu=INR";
+      window.location.href = "upi://pay?pa=boism-7974477211@boi&pn=ShriHariOmBabaGowrakshan&cu=INR";
     }
   </script>
 </head>
